@@ -1,0 +1,480 @@
+[
+  {
+    "question": "¿Qué objeto forjó Sauron para gobernar a todos los Anillos de Poder?",
+    "options": [
+      "El Anillo Único",
+      "La Piedra de Arken",
+      "El Palantír",
+      "El Silmaril"
+    ],
+    "correctAnswer": "El Anillo Único",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Cuál es el nombre del mago gris que guía a la Comunidad del Anillo?",
+    "options": ["Saruman", "Radagast", "Gandalf", "Alatar"],
+    "correctAnswer": "Gandalf",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Qué raza ayudó a Frodo en su viaje a Mordor?",
+    "options": ["Elfos", "Orcos", "Águilas", "Hombres"],
+    "correctAnswer": "Águilas",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Quién es el tío de Frodo Bolsón que encontró el Anillo Único?",
+    "options": [
+      "Meriadoc Brandigamo",
+      "Pippin Tuk",
+      "Samsagaz Gamyi",
+      "Bilbo Bolsón"
+    ],
+    "correctAnswer": "Bilbo Bolsón",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Cómo se llama el reino de los elfos gobernado por Galadriel?",
+    "options": ["Rivendel", "Gondolin", "Mirkwood", "Lothlórien"],
+    "correctAnswer": "Lothlórien",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Qué nombre recibe la espada que Aragorn usó en la Guerra del Anillo?",
+    "options": ["Sting", "Glamdring", "Andúril", "Orcrist"],
+    "correctAnswer": "Andúril",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Quién mató al Rey Brujo de Angmar?",
+    "options": ["Gandalf", "Éowyn", "Aragorn", "Frodo"],
+    "correctAnswer": "Éowyn",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Cuál es el nombre del último rey de Númenor?",
+    "options": ["Ar-Pharazôn", "Tar-Palantir", "Elendil", "Isildur"],
+    "correctAnswer": "Ar-Pharazôn",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Cuál es el nombre del reino subterráneo de los enanos, conocido por sus vastas minas?",
+    "options": ["Lothlórien", "Rivendel", "Moria", "Gondor"],
+    "correctAnswer": "Moria",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Cómo se llama el dragón que ataca la Montaña Solitaria en 'El Hobbit'?",
+    "options": ["Glaurung", "Ancalagon el Negro", "Smaug", "Scatha"],
+    "correctAnswer": "Smaug",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Quién es el padre de Legolas?",
+    "options": ["Elrond", "Thranduil", "Círdan", "Glorfindel"],
+    "correctAnswer": "Thranduil",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Qué hobbit es conocido por su afición a la jardinería y su lealtad a Frodo?",
+    "options": ["Pippin", "Merry", "Sam", "Bilbo"],
+    "correctAnswer": "Sam",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Quién es el Señor de Rivendel?",
+    "options": ["Gandalf", "Aragorn", "Elrond", "Galadriel"],
+    "correctAnswer": "Elrond",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Cómo se llama la fortaleza en la que se refugian los defensores de Rohan en 'Las Dos Torres'?",
+    "options": ["Minas Tirith", "Isengard", "El Abismo de Helm", "Edoras"],
+    "correctAnswer": "El Abismo de Helm",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Qué criatura traicionó a Bilbo y más tarde a Frodo, buscando su 'precioso'?",
+    "options": ["Balrog", "Gollum", "Shelob", "El Nazgûl"],
+    "correctAnswer": "Gollum",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Quién es el rey de los Hombres de Rohan?",
+    "options": ["Théoden", "Éomer", "Háma", "Gríma Wormtongue"],
+    "correctAnswer": "Théoden",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Qué personaje es un Ent, conocido por su lento habla y su sabiduría?",
+    "options": ["Sauron", "Tom Bombadil", "Bárbol", "Gandalf"],
+    "correctAnswer": "Bárbol",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Cómo se llama la araña gigante que Frodo y Sam encuentran en su camino a Mordor?",
+    "options": ["Ungoliant", "Shelob", "Glaurung", "Ancalagon"],
+    "correctAnswer": "Shelob",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Quién es el líder de los Uruk-hai de Saruman?",
+    "options": ["Azog", "Gothmog", "Lurtz", "Grishnákh"],
+    "correctAnswer": "Lurtz",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿En qué lugar de la Tierra Media se encuentra el Ojo de Sauron?",
+    "options": [
+      "La Puerta Negra",
+      "Barad-dûr",
+      "Monte del Destino",
+      "Minas Morgul"
+    ],
+    "correctAnswer": "Barad-dûr",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Qué criatura mató a Balin en Moria?",
+    "options": ["Orcos", "Un Troll de las Cavernas", "Un Balrog", "Un dragón"],
+    "correctAnswer": "Un Balrog",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Qué río cruza Frodo para entrar en Mordor?",
+    "options": [
+      "El Río Anduin",
+      "El Río Hithaeglir",
+      "El Río Carnen",
+      "El Río Espectro"
+    ],
+    "correctAnswer": "El Río Espectro",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Cómo se llama el hobbit que acompaña a Frodo en su viaje a Mordor?",
+    "options": [
+      "Samsagaz Gamyi",
+      "Meriadoc Brandigamo",
+      "Pippin Tuk",
+      "Bilbo Bolsón"
+    ],
+    "correctAnswer": "Samsagaz Gamyi",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Qué lugar es conocido como el lugar de nacimiento de los Elfos?",
+    "options": ["Cuiviénen", "Valinor", "Tol Eressëa", "Tirion"],
+    "correctAnswer": "Cuiviénen",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Qué personaje lleva una túnica marrón y es conocido por su amor por los animales?",
+    "options": ["Gandalf", "Saruman", "Radagast", "Alatar"],
+    "correctAnswer": "Radagast",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Cuál es el nombre de la madre de Arwen?",
+    "options": ["Galadriel", "Ioreth", "Elwing", "Celebrían"],
+    "correctAnswer": "Celebrían",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Qué personaje es el capitán de la Guardia de la Fuente de Minas Tirith?",
+    "options": ["Faramir", "Boromir", "Denethor", "Eomer"],
+    "correctAnswer": "Faramir",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Quién forjó los Anillos de Poder para los Elfos?",
+    "options": ["Sauron", "Celebrimbor", "Fëanor", "Galadriel"],
+    "correctAnswer": "Celebrimbor",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Cuál es la capital del reino de Gondor?",
+    "options": ["Minas Tirith", "Osgiliath", "El Abismo de Helm", "Edoras"],
+    "correctAnswer": "Minas Tirith",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Qué criaturas aladas son los sirvientes más temidos de Sauron?",
+    "options": ["Águilas", "Nazgûl", "Wyrms", "Dragones"],
+    "correctAnswer": "Nazgûl",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Qué personaje es el Guardián del Anillo al inicio de 'La Comunidad del Anillo'?",
+    "options": ["Gandalf", "Frodo Bolsón", "Bilbo Bolsón", "Samsagaz Gamyi"],
+    "correctAnswer": "Frodo Bolsón",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Cuál es el nombre del arma de Gandalf?",
+    "options": ["Andúril", "Glamdring", "Sting", "Orcrist"],
+    "correctAnswer": "Glamdring",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Quién traicionó a Frodo y a Sam en la entrada de Mordor?",
+    "options": ["Gollum", "Saruman", "Sauron", "El Rey Brujo"],
+    "correctAnswer": "Gollum",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Cómo se llama el hijo de Denethor, hermano de Boromir?",
+    "options": ["Aragorn", "Faramir", "Imrahil", "Eomer"],
+    "correctAnswer": "Faramir",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Cuál es el nombre del padre de Gimli?",
+    "options": ["Balin", "Dwalin", "Gloin", "Fili"],
+    "correctAnswer": "Gloin",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Qué criatura protege la entrada de la Montaña Solitaria?",
+    "options": [
+      "Un Troll de las Cavernas",
+      "Un Golem",
+      "Un Dragón",
+      "Un Balrog"
+    ],
+    "correctAnswer": "Un Dragón",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Cómo se llama la ciudad subterránea de los enanos, hogar de Gimli?",
+    "options": ["Rivendel", "Lothlórien", "Erebor", "Moria"],
+    "correctAnswer": "Erebor",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Quién es el rey de los elfos de Mirkwood y padre de Legolas?",
+    "options": ["Elrond", "Galadriel", "Thranduil", "Círdan"],
+    "correctAnswer": "Thranduil",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Cuál es el nombre de la espada élfica que Frodo lleva?",
+    "options": ["Andúril", "Glamdring", "Sting", "Narsil"],
+    "correctAnswer": "Sting",
+    "difficulty": "facil"
+  },
+
+  {
+    "question": "¿Qué personaje es el rey de Rohan?",
+    "options": ["Théoden", "Eomer", "Gríma Wormtongue", "Aragorn"],
+    "correctAnswer": "Théoden",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Cuál es el nombre del caballo de Gandalf?",
+    "options": ["Arod", "Asfaloth", "Sombragrís", "Bill"],
+    "correctAnswer": "Sombragrís",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Qué lugar es conocido como el Bosque Viejo?",
+    "options": [
+      "El Bosque Negro",
+      "Fangorn",
+      "El Bosque Viejo",
+      "Los Altos de los Tumularios"
+    ],
+    "correctAnswer": "El Bosque Viejo",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Quién es el Señor de los Anillos en su forma corrompida?",
+    "options": ["Gollum", "Saruman", "Sauron", "El Rey Brujo"],
+    "correctAnswer": "Sauron",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Cuál es el título de Saruman?",
+    "options": ["El Blanco", "El Gris", "El Marrón", "El Rojo"],
+    "correctAnswer": "El Blanco",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Qué objeto se conoce como la Estrella de Eärendil?",
+    "options": [
+      "El Silmaril",
+      "El Anillo Único",
+      "El Palantír",
+      "El Arkenstone"
+    ],
+    "correctAnswer": "El Silmaril",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Qué criatura traicionó a Frodo y Sam en la entrada de Mordor?",
+    "options": ["Shelob", "El Balrog", "Gollum", "El Rey Brujo"],
+    "correctAnswer": "Gollum",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Cuál es el nombre de la ciudad de los elfos donde se refugia la Comunidad del Anillo?",
+    "options": ["Moria", "Rivendel", "Gondor", "Isengard"],
+    "correctAnswer": "Rivendel",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Qué personaje es un Enano que forma parte de la Comunidad del Anillo?",
+    "options": ["Gimli", "Balin", "Dwalin", "Thorin"],
+    "correctAnswer": "Gimli",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Qué criatura es un Balrog, conocido como la Ruina de Durin?",
+    "options": [
+      "Un dragón",
+      "Un demonio de sombra y fuego",
+      "Un troll",
+      "Un orco"
+    ],
+    "correctAnswer": "Un demonio de sombra y fuego",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Cómo se llama la ciudadela de los Hombres de Gondor?",
+    "options": ["Minas Tirith", "El Abismo de Helm", "Edoras", "Lothlórien"],
+    "correctAnswer": "Minas Tirith",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Qué personaje es el Capitán de la Guardia de la Fuente de Minas Tirith?",
+    "options": ["Faramir", "Boromir", "Aragorn", "Denethor"],
+    "correctAnswer": "Faramir",
+    "difficulty": "normal"
+  },
+
+  {
+    "question": "¿Qué nombre se le da a las tierras de Sauron?",
+    "options": ["El Bosque Negro", "Mordor", "Rohan", "Gondor"],
+    "correctAnswer": "Mordor",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Cuál es el nombre de la espada del Rey Brujo de Angmar?",
+    "options": ["Glamdring", "Morgul-blade", "Andúril", "Sting"],
+    "correctAnswer": "Morgul-blade",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Qué criatura es conocido como el 'Amigo de los Elfos'?",
+    "options": ["Gimli", "Gandalf", "Elrond", "Aragorn"],
+    "correctAnswer": "Aragorn",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Quién es el padre de Arwen?",
+    "options": ["Thranduil", "Fëanor", "Elrond", "Círdan"],
+    "correctAnswer": "Elrond",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Qué criatura es un Maia que se convirtió en un mago?",
+    "options": ["Elrond", "Galadriel", "Radagast", "Aragorn"],
+    "correctAnswer": "Radagast",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Cuál es el nombre del lugar donde vive Tom Bombadil?",
+    "options": ["Bosque Viejo", "Lothlórien", "La Comarca", "Fangorn"],
+    "correctAnswer": "Bosque Viejo",
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Qué personaje es un 'Perian', conocido por su pequeña estatura y su amor por la fiesta?",
+    "options": ["Elfo", "Enano", "Hobbit", "Humano"],
+    "correctAnswer": "Hobbit",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Cómo se llama el reino de los hombres de Rohan?",
+    "options": ["Gondor", "Minas Tirith", "Rohan", "El Abismo de Helm"],
+    "correctAnswer": "Rohan",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Quién es la reina de los elfos de Lothlórien?",
+    "options": ["Arwen", "Galadriel", "Lúthien", "Elwing"],
+    "correctAnswer": "Galadriel",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Qué criatura es un Balrog, conocido como la Sombra y la Llama?",
+    "options": [
+      "Un dragón",
+      "Un demonio de sombra y fuego",
+      "Un troll",
+      "Un orco"
+    ],
+    "correctAnswer": "Un demonio de sombra y fuego",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Qué arma es un hacha de guerra?",
+    "options": ["Andúril", "Glamdring", "Sting", "Hacha de Gimli"],
+    "correctAnswer": "Hacha de Gimli",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Quién es el padre de Elrond?",
+    "options": ["Eärendil", "Fëanor", "Berendil", "Faramir"],
+    "correctAnswer": "Eärendil",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Qué criatura es conocido como el 'Sin Nombre' de Moria?",
+    "options": ["El Balrog", "El Vigilante en el Agua", "El Orco", "El Nazgûl"],
+    "correctAnswer": "El Vigilante en el Agua",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Quién es el hijo de Boromir?",
+    "options": ["Aragorn", "Faramir", "Denethor", "Eomer"],
+    "correctAnswer": "No tiene hijos conocidos",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Cuál es la capital del reino de Rohan?",
+    "options": ["Minas Tirith", "Edoras", "El Abismo de Helm", "Osgiliath"],
+    "correctAnswer": "Edoras",
+    "difficulty": "facil"
+  },
+  {
+    "question": "¿Qué personaje es el capitán de los Dúnedain?",
+    "options": ["Aragorn", "Boromir", "Faramir", "Eomer"],
+    "correctAnswer": "Aragorn",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Cuál es el nombre de la espada del Rey Brujo de Angmar?",
+    "options": ["Glamdring", "Morgul-blade", "Andúril", "Sting"],
+    "correctAnswer": "Morgul-blade",
+    "difficulty": "dificil"
+  },
+  {
+    "question": "¿Qué criatura es conocido como el 'Amigo de los Elfos'?",
+    "options": ["Gimli", "Gandalf", "Elrond", "Aragorn"],
+    "correctAnswer": "Aragorn",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Quién es el padre de Arwen?",
+    "options": ["Thranduil", "Fëanor", "Elrond", "Círdan"],
+    "correctAnswer": "Elrond",
+    "difficulty": "normal"
+  },
+  {
+    "question": "¿Qué criatura es un Maia que se convirtió en un mago?",
+    "options": ["Elrond", "Galadriel", "Radagast", "Aragorn"],
+    "correctAnswer": "Radagast",
+    "difficulty": "normal"
+  }
+]

@@ -1,0 +1,880 @@
+{
+  "A": [
+    {
+      "question": "Caballo cedido por Éomer a Legolas, quien lo montó junto a Gimli en la Guerra del Anillo.",
+      "answer": ["Arod"]
+    },
+    {
+      "question": "Hija de Elrond y Celebrían que renunció a su inmortalidad por su amor a Aragorn.",
+      "answer": ["Arwen"]
+    },
+    {
+      "question": "Espada forjada a partir de los restos de Narsil que fue portada por Aragorn durante toda la Guerra del Anillo.",
+      "answer": ["Andúril", "Anduril"]
+    },
+    {
+      "question": "Continente de Arda que se encuentra al oeste del gran mar de Belegaerm, conocido por ser las tierras donde habitan los Valar.",
+      "answer": ["Aman"]
+    },
+    {
+      "question": "Nombre que recibe el mundo en que transcurren los acontecimientos de casi todas las obras de Tolkien.",
+      "answer": ["Arda"]
+    },
+    {
+      "question": "Espíritus inmortales que fueron los primeros seres creados por Ilúvatar, vástagos de su pensamiento, hechos antes de Eä.",
+      "answer": ["Ainur"]
+    },
+    {
+      "question": "Reino del norte de los Dúnedain fundado en el año 3320 de la Segunda Edad por Elendil tras escapar de la destrucción de Númenor.",
+      "answer": ["Arnor"]
+    },
+    {
+      "question": "Valar de la tierra y la minería que creó la raza de los enanos.",
+      "answer": ["Aulë", "Aule"]
+    },
+    {
+      "question": "Primera capital del reino de Arnor en el noroeste de Eriador, cuyo nombre significa 'Torre del Ocaso'.",
+      "answer": ["Annúminas", "Annuminas"]
+    },
+    {
+      "question": "Reino fundado por el Rey Brujo en el extremo norte de las Montañas Nubladas, con el único propósito de debilitar el reino del norte de Arnor.",
+      "answer": ["Angmar"]
+    },
+    {
+      "question": "Último rey de Númenor, conocido como el Dorado, que usurpó el trono tras la muerte de Tar-Palantir y condujo con su orgullo desmesurado a la caída de Númenor.",
+      "answer": ["Ar-Pharazôn", "Ar-Pharazon"]
+    },
+    {
+      "question": "Largo y caudaloso río que atraviesa la Tierra Media de norte a sur, naciendo en las Montañas Grises y desembocando en la Bahía de Belfalas.",
+      "answer": ["Anduin"]
+    },
+    {
+      "question": "Nombre de la fortaleza, armería y arsenal de Melkor ubicada en el extremo noroccidental de la Tierra Media para prevenir cualquier ataque de los Valar desde occidente.",
+      "answer": ["Angband"]
+    },
+    {
+      "question": "Dragón negro y alado creado por Morgoth, considerado el más poderoso de los dragones de todas las edades, que cayó en la Guerra de la Cólera al enfrentarse a Eärendil.",
+      "answer": ["Ancalagon"]
+    },
+    {
+      "question": "Nombre de las dos grandes esculturas monumentales situadas a ambas márgenes del río Anduin que marcan la entrada a Gondor, las cuales representan a Isildur y Anárion.",
+      "answer": ["Argonath"]
+    }
+  ],
+  "B": [
+    {
+      "question": "Hobbit miembro de la Compañía de Thorin protagonista del libro 'El Hobbit'.",
+      "answer": ["Bilbo", "Bilbo Bolsón"]
+    },
+    {
+      "question": "Miembro de la Compañía del Anillo, capitán de Gondor e hijo del senescal Denethor.",
+      "answer": ["Boromir"]
+    },
+    {
+      "question": "Edain descendiente de la Casa de Bëor el Viejo que cortó un Silmaril de la corona de Morgoth como precio para desposar a Lúthien.",
+      "answer": ["Beren"]
+    },
+    {
+      "question": "Región que se extendió entre las Ered Luin y la costa septentrional de la Tierra Media durante la Primera Edad que fue sumergida tras la Guerra de la Cólera.",
+      "answer": ["Beleriand"]
+    },
+    {
+      "question": "Bosque situado en Rhovanion al nordeste de la Tierra Media, previamente conocido como Bosqueverde, tras la construcción de la fortaleza de Dol Guldur por parte de Sauron.",
+      "answer": ["Bosque Negro"]
+    },
+    {
+      "question": "Gobernador de la Ciudad de Valle célebre por lograr la hazaña de matar al dragón Smaug.",
+      "answer": ["Bardo"]
+    },
+    {
+      "question": "Hombre cambiapieles y Jefe de los Beórnidas capaz de transformarse en un enorme oso negro.",
+      "answer": ["Beorn"]
+    },
+    {
+      "question": "Enano perteneciente a la Compañía de Thorin, hermano de Dwalin y primo de Gimli, que participó en la expedición de Erebor y en la Batalla de los Cinco Ejércitos.",
+      "answer": ["Balin"]
+    },
+    {
+      "question": "Líder orco, hijo de Azog el Profanador que dirigió al ejército trasgo en la Batalla de los Cinco Ejércitos.",
+      "answer": ["Bolgo"]
+    },
+    {
+      "question": "Maiar corrompidos por Melkor colosalmente poderosos que usaban látigos de llama.",
+      "answer": ["Balrog"]
+    },
+    {
+      "question": "Famosa Hobbit madre de Bilbo Bolsón e hija del Viejo Tuk.",
+      "answer": ["Belladonna Tuk", "Belladonna"]
+    },
+    {
+      "question": "Fortaleza de Sauron en Mordor situada en el extremo austral de un gran espolón de las Ered Lithui, conocida como la Torre Oscura o Lugbúrz por los orcos.",
+      "answer": ["Barad-dûr", "Barad-dur", "Barad Dur"]
+    }
+  ],
+  "C": [
+    {
+      "question": "Noldo de la casa de Fëanor e hijo de Curufin, fundador del reino de Eregion y la hermandad de los herreros noldor, que forjó los Anillos de Poder engañado por Sauron, bajo la identidad de Annatar.",
+      "answer": ["Celebrimbor"]
+    },
+    {
+      "question": "Montaña perteneciente a la cadena montañosa de las Montañas Nubladas que esconde en sus adentros las Minas de Moria.",
+      "answer": ["Caradhras"]
+    },
+    {
+      "question": "Elfo Teleri, gran navegante y carpintero de ribera, señor de las Falas, conocido como el Carpintero de Barcos.",
+      "answer": ["Círdan", "Cirdan"]
+    },
+    {
+      "question": "Gran lobo de Morgoth custodio de las puertas de Angband que murió en su enfrentamiento con Huan, el perro lobo de Valinor.",
+      "answer": ["Carcharoth"]
+    },
+    {
+      "question": "Paso situado en las Ephel Dúath al que se accedía por el valle de Morgul y donde habitaba Ella-Laraña.",
+      "answer": ["Cirith Ungol"]
+    },
+    {
+      "question": "Lago de la Tierra Media situado al sur de Utumno en el que despertaron los primeros hijos de Ilúvatar, los Elfos.",
+      "answer": ["Cuiviénen"]
+    },
+    {
+      "question": "Reunión secreta organizada por Elrond en Rivendel cuyo objetivo era tomar una decisión acerca del futuro del Anillo.",
+      "answer": ["Concilio de Elrond"]
+    },
+    {
+      "question": "Consejo de Sabios formado por los tres Istari en activo y por varios Señores de los Eldar, entre los que se encontraban Elrond, Galadriel y Círdan, cuyo objetivo era detener la amenaza de Sauron.",
+      "answer": ["Concilio Blanco"]
+    },
+    {
+      "question": "Región de Rhovanion situada en el curso medio-alto del Anduin y atravesado por el río Gladio, conocido por ser el lugar en el que Isildur fue asesinado a flechazos por un grupo de orcos y el Anillo Único se perdió.",
+      "answer": ["Campos Gladios"]
+    },
+    {
+      "question": "Señor elfo de Lothlórien que lideró el asalto a la fortaleza enemiga en Dol Guldur y cuya mujer era Galadriel.",
+      "answer": ["Celeborn"]
+    }
+  ],
+  "D": [
+    {
+      "question": "Enano de la compañía de Thorin y hermano de Balin que participó en la misión de la Montaña Solitaria",
+      "answer": ["Dwalin"]
+    },
+    {
+      "question": "Ciudad portuaria del reino de Gondor, en la región costera de Belfalas, conocida por su importancia militar y naval, así como por su linaje noble vinculado a los Dúnedain y los Elfos.",
+      "answer": ["Dol Amroth"]
+    },
+    {
+      "question": "Principal reino de los Elfos Sindar en Beleeriand durante la Primera Edad fundado por Elwë y cuya capital fue Menegroth.",
+      "answer": ["Doriath"]
+    },
+    {
+      "question": "Hombres de Númenor y sus descendientes que poblaron las Tierras del Oeste de la Tierra Media en la Segunda y Tercera Edad.",
+      "answer": ["Dúnedain", "Dunedain"]
+    },
+    {
+      "question": "Espada fabricada por los Noldor en Gondolin que fue encontrada y portada por Bilbo en una cueva de trolls, que adquiría un azul intensoo cuando había orcos cerca.",
+      "answer": ["Dardo"]
+    }
+  ],
+  "E": [
+    {
+      "question": "Primer rey de Arnor y aliado de Númenor, conocido por liderar a los últimos fieles de Númenor en la lucha contra Sauron y portar la espada Narsil.",
+      "answer": ["Elendil"]
+    },
+    {
+      "question": "Rohirrim y hermano mayor de Éowyn que fue coronado como rey de Rohan después de la guerra del Anillo.",
+      "answer": ["Éomer", "Eomer"]
+    },
+    {
+      "question": "Señor Elfo de Gondolin que mató a Gothmog, señor de los Balrogs, durante el saqueo de la ciudad, muriendo al mismo tiempo.",
+      "answer": ["Ecthelion"]
+    },
+    {
+      "question": "Principal reino Noldor que existió en la Segunda Edad, fundado y gobernado por Galadriel y Celeborn.",
+      "answer": ["Eregion"]
+    },
+    {
+      "question": "Una de las regiones más extensas de la Tierra Media que limita con las costas septentrionales de Beleager y la Bahía de Hiel de Forochel al norte, las Montañas Nubladas al este, el río Aguada Gris al sur y las Erede Luin al oeste.",
+      "answer": ["Eriador"]
+    },
+    {
+      "question": "Pico aislado al noreste de Rhovanion que albergó un bastión subterráneo de enanos hasta que el dragón Smaug los expulsó, también conocio como la Montaña Solitaria.",
+      "answer": ["Erebor"]
+    },
+    {
+      "question": "Raza más antigua del mundo y primeros hijos de Eru Ilúvatar, los cuales no envejecen, tienen mayor persistencia en mente y espíritu que hombres y enanos y de mayor habilidad.   ",
+      "answer": ["Elfo", "Elfos", "Elfica", "Élfica"]
+    },
+    {
+      "question": "Raza creada por Aulë de baja estatura, robustos, corpulentos y más fuertes que el resto de razas, y tanto hombres como mujeres tienen barba.",
+      "answer": ["Enano", "Enanos", "Enana"]
+    }
+  ],
+  "F": [
+    {
+      "question": "Legendario elfo de la Primera Edad, creador de los Silmarils y uno de los elfos más talentosos y ambiciosos de la historia de la Tierra Media.",
+      "answer": ["Feanor", "Fëanor"]
+    },
+    {
+      "question": "Segundo Alto Rey de los Noldor en Beleriand e hijo más fuerte, firme y valiente de Finwë.",
+      "answer": ["Fingolfin"]
+    },
+    {
+      "question": "Elfo Noldor, hijo mayor de Finarfin y hermano de Galadriel, que se convirtió en el primer Elfo en reencarnase en las Tierras Imperecederas por su nobleza al morir salvando a Beren y su oposición al Juramento de Fëanor.",
+      "answer": ["Finrod", "Finrod Felagund"]
+    },
+    {
+      "question": "Hobbit integrante de la Compañía del Anillo y responsable de portar el Anillo Único desde la Comarca hasta el Orodruin para su destrucción en la lava.",
+      "answer": ["Frodo Bolsón", "Frodo Bolson", "Frodo"]
+    },
+    {
+      "question": "Elfo Noldor considerado el más justo y sabio de los hijos de Finwë y padre de Galadriel.",
+      "answer": ["Finarfin"]
+    },
+    {
+      "question": "Heredero de Fingolfin como Rey Supremo de los Noldor durante la Primera Edad que rescató a Maedhros de Thangorodrim, se enfrentó a Glaurung el Dorado y murió en la Batalla de las Lágrimas Innumerables a manos de Gothmog, señor de los Balrog.",
+      "answer": ["Fingon"]
+    },
+    {
+      "question": "Hijo menor del Senescal de Gondor Denethor II y hermano de Boromir que tras la Guerra del Anillo se estableció junto con Éowyn como príncipes en Ithilien.",
+      "answer": ["Faramir"]
+    },
+    {
+      "question": "Primer Alto Rey de los Noldor que condujo a su gente en el viaje desde la Tierra Media a Valinor, padre de Fëanor, Fingolfin y Finarfin.",
+      "answer": ["Finwë", "Finwe"]
+    },
+    {
+      "question": "Ciudad de Eriador, al sur de las Quebradas del Norte y al norte de Bree que fue abandonada hasta caer en ruinas, siendo conocida como el dique de los muertos.",
+      "answer": ["Fornost"]
+    },
+    {
+      "question": "Extenso bosque que ocupa gran parte del oeste de Rohan, cubriendo los valles surorientales de las Montañas Nubladas, que recibe su nombre por Bárbol, un anciano Ent que cuida del bosque.",
+      "answer": ["Fangorn"]
+    },
+    {
+      "question": "Aquellos Teleri que completaron el viaje a Aman en las Edades de los Árboles al mando de Olwë, su rey, asentándose en la isla de Tol Eressëa.",
+      "answer": ["Falmari"]
+    }
+  ],
+  "G": [
+    {
+      "question": "Consejero traidor del Rey Théoden que manipulaba a Rohan desde dentro.",
+      "answer": ["Gríma", "Grima"]
+    },
+    {
+      "question": "Región desolada y volcánica en Mordor, hogar de los ejércitos de Sauron.",
+      "answer": ["Gorgoroth"]
+    },
+    {
+      "question": "Gran ariete o martillo de guerra usado por los ejércitos de Mordor en la Batalla del Abismo de Helm.",
+      "answer": ["Grond"]
+    },
+    {
+      "question": "Ciudad élfica escondida en la Primera Edad, famosa por sus defensas y belleza.",
+      "answer": ["Gondolin"]
+    },
+    {
+      "question": "Primer gran dragón de la Tierra Media, conocido como 'padre de los dragones'.",
+      "answer": ["Glaurung"]
+    },
+    {
+      "question": "Espada élfica empuñada por Gandalf durante sus viajes y conocida como 'Martillo de Enemigos'.",
+      "answer": ["Glamdring"]
+    },
+    {
+      "question": "Capitán orco de Cirith Ungol que se disputó con Shagrat la cota de mithril de Frodo.",
+      "answer": ["Gorbag"]
+    }
+  ],
+  "H": [
+    {
+      "question": "Hobbit vecino de Frodo, famoso por su hospitalidad y ser el inicio de la historia del Anillo.",
+      "answer": ["Bilbo", "Bilbo Bolsón"]
+    },
+    {
+      "question": "Fortaleza de Rohan donde se libró la famosa batalla contra los ejércitos de Saruman.",
+      "answer": ["Helm", "Helm's Deep", "Abismo de Helm"]
+    },
+    {
+      "question": "Región cálida y desértica al sur de Gondor, hogar de pueblos aliados de Sauron.",
+      "answer": ["Harad"]
+    },
+    {
+      "question": "Gente guerrera del sur de la Tierra Media, conocida por montar olifantes en batalla.",
+      "answer": ["Haradrim"]
+    },
+    {
+      "question": "Personaje no canónico que aparece como protagonista en la serie El Señor de los Anillos: Los Anillos de Poder.",
+      "answer": ["Halbrand"]
+    },
+    {
+      "question": "Perro legendario y fiel compañero de Túrin Turambar, capaz de enfrentarse a dragones y monstruos.",
+      "answer": ["Huan"]
+    },
+    {
+      "question": "Lobo gigante que sirvió a Sauron y a otros enemigos de la Tierra Media, enemigo de Huan y de los héroes.",
+      "answer": ["Huargo"]
+    }
+  ],
+  "I": [
+    {
+      "question": "Grupo de Maiar que fueron enviados a la Tierra Media con la misión de liberar a los Pueblos Libres de la sombra de Sauron.",
+      "answer": ["Istari"]
+    },
+    {
+      "question": "Nombre del Príncipe de Dol Amroth que lideró a sus caballeros en la defensa de Minas Tirith durante la Guerra del Anillo",
+      "answer": ["Imrahil"]
+    },
+    {
+      "question": "Creador único y absoluto de Eä, llamado Eru por los Elfos, que creó a los Ainur con la Llama Imperecedera de su espíritu.",
+      "answer": ["Ilúvatar", "Iluvatar"]
+    },
+    {
+      "question": "Dúnedain, hijo de Elendil y hermano de Anárion, con el que fundó el Reino de Gondor y que derrotó a Sauron cortándole el dedo en el que portaba el Anillo Único.",
+      "answer": ["Isildur"]
+    },
+    {
+      "question": "Región de Gondor, limitada al oeste por el Anduin, al este por las Ephel Dúath, al norte por la Ciénaga de los Muertos y al sur por el rio Poros.",
+      "answer": ["Ithilien"]
+    },
+    {
+      "question": "Fortaleza de Gondor situada en el extremo sur de las Montañas Nubladas con forma de anillo y con la Torre de Orthanc en el centro, donde habitaba el mago Saruman.",
+      "answer": ["Isengard"]
+    },
+    {
+      "question": "Río de Rohan, también conocido como Angren, que nace al sur de las Montañas Nubladas, transcurre hacia el sur a través de la Fortaleza de Isengard hasta las Montañas Blancas a través de Rohan y desemboca en el mar de Belegaer.",
+      "answer": ["Isen"]
+    },
+    {
+      "question": "Rey supremo de los Vanyar que despertó en el Cuiviénen y condujo a su grupo de elfos a las Tierras Imperecederas.",
+      "answer": ["Ingwë"]
+    }
+  ],
+  "J": [
+    {
+      "question": "Nombre del autor de El Señor de los Anillos y El Hobbit y creador del universo de la Tierra Media.",
+      "answer": ["John", "John Ronald Reuel"]
+    },
+    {
+      "question": "Voto de Fëanor y sus hijos de perseguir a quien tuviera un Silmaril, lo que provocó la ruina de su linaje.",
+      "answer": ["Juramento"]
+    },
+    {
+      "question": "Nombre completo del actor británico que interpretó a Gimli en la trilogía de El Señor de los Anillos.",
+      "answer": ["John Rhys-Davies", "John Rhys Davies"]
+    }
+  ],
+  "K": [
+    {
+      "question": "Uno de los nueve Nazgûl conocido como 'el Oriental' y solamente superado en poder por el Rey Brujo.",
+      "answer": ["Khamûl", "Khamul"]
+    },
+    {
+      "question": "Lengua de los Enanos, usada y enseñada sólo entre ellos, por lo que se conoce muy poco de ella.",
+      "answer": ["Khuzdul"]
+    },
+    {
+      "question": "Nombre de las más grandes minas construidas por los Enanos, situadas en las Montañas Nubladas, también conocidas como 'Mansión de los Enanos'.",
+      "answer": ["Khazad-dûm", "Khazad-dum", "Khazad dûm", "Khazad dum"]
+    },
+    {
+      "question": "Nombre de las regiones deshabitadas de existencia fuera de Eä y de los Palacios Intemporales a las cuales Morgoth fue expuslado tras su derrota en la Guerra de la Cólera.",
+      "answer": ["Kúma"]
+    }
+  ],
+  "L": [
+    {
+      "question": "Elfo Sindar, hijo de Thranduil, que formó parte de la Comunidad del Anillo y formó una gran amistad con el enano Gimli.",
+      "answer": ["Legolas"]
+    },
+    {
+      "question": "Reino fundado por Gil-Galad al comienzo de la Segunda Edad ubicado en lo que quedaba de Ossiriand, la Tierra de los Siete Ríos y todo lo que quedó de la península de Beleriand tras la Guerra de la Cólera.",
+      "answer": ["Lindon"]
+    },
+    {
+      "question": "Doncella de Doriath, esposa de Beren y la más hermosa de todos los hijos de Ilúvatar.",
+      "answer": ["Lúthien", "Luthien"]
+    },
+    {
+      "question": "Idioma creado por Sauron en los años oscuros que se hablaba únicamente en Mordor.",
+      "answer": ["Lengua Negra"]
+    },
+    {
+      "question": "Miembro de la Compañía del Anillo, capitán de Gondor e hijo del senescal Denethor.",
+      "answer": ["Boromir"]
+    },
+    {
+      "question": "Bosque ubicado cerca de las bajas Montañas Nubladas al sureste de Moria habitado por Celeborn y Galadriel.",
+      "answer": ["Lothlórien"]
+    },
+    {
+      "question": "Novela escrita por JRR Tolkien ambientada en la Primera Edad en la tierra de Beleriand al oeste de la Tierra Media y cuyo argumento gira en torno a la maldición que Morgoth echa sobre los descendientes de Húrin.",
+      "answer": ["Los Hijos de Húrin", "Los Hijos de Hurin"]
+    },
+    {
+      "question": "Pequeña región al este de la Comarca conocida por ser la cuna de Frodo Bolsón.",
+      "answer": ["Los Gamos"]
+    },
+    {
+      "question": "Región de Gondor situada al sur de las Ered Nimrais frente a las fuentes del rio Erui, también llamada Valle de las Flores.",
+      "answer": ["Lossarnach"]
+    }
+  ],
+  "M": [
+    {
+      "question": "Seres espirituales creados por Ilúvatar, de menor rango que los Valar y que sirven y asisten en su tarea de dar forma al mundo.",
+      "answer": ["Maiar"]
+    },
+    {
+      "question": "Nombre del rey de los Valar y de Arda, hermano menor de Melkor.",
+      "answer": ["Manwë", "Manwe"]
+    },
+    {
+      "question": "Nombre Quenya del gran Valar rebelde, el princiio del mal en su origen, el más poderoso de los Ainur, hermano de Manwë y maestro de Sauron.",
+      "answer": ["Melkor", "Morgoth"]
+    },
+    {
+      "question": "Importante ciudad élfica fundada por los Sindar en el bosque de Doriath y que servía como palacio-fortaleza del rey Thingol y la reina Melian, también llamada 'las Mil Cavernas'.",
+      "answer": ["Menegroth"]
+    },
+    {
+      "question": "Seres enormes cuya forma se asemeja a la de un elefante de proporciones colosales, procedente de las lejanas tierras de Harad.",
+      "answer": ["Múmakil"]
+    },
+    {
+      "question": "Ciudad fundada por Isildur en el 3320 de la Segunda Edad sobre una estribación de las Montañas de la Sombra.",
+      "answer": ["Minas Ithil"]
+    },
+    {
+      "question": "Nombre que recibió la ciudad fundada por Isildur tras ser tomada por el Rey Brujo.",
+      "answer": ["Minas Morgul"]
+    },
+    {
+      "question": "Eldar de Beleriand de la Primera Edad, hijo de Eöl el elfo oscuro que aceptó traicionar al reino al ser capturado por los Orcos.",
+      "answer": ["Maeglin"]
+    },
+    {
+      "question": "Juez de los Valar que condena y enjuicia sólo por orden de Manwë.",
+      "answer": ["Mandos"]
+    },
+    {
+      "question": "Maiar de la raza de los Ainur, que abandonó Valinor y fue a la Tierra Media, donde se convirtió en la reina del rey Thingol de Doriath.",
+      "answer": ["Melian"]
+    },
+    {
+      "question": "País situado al sureste de la Tierra Media de gran importancia durante la Guerra del Anillo por ser el lugar donde Sauron decidió edificar su fortaleza Barad-dûr.",
+      "answer": ["Mordor"]
+    },
+    {
+      "question": "Metal plateado precioso y muy ligero, pero capaz de proporcionar la fuera extrema en las aleaciones, extraído por los Enanos en las profundidades de Khazad-dûm.",
+      "answer": ["Mithril"]
+    },
+    {
+      "question": "Capital de Gondor en la Tercera y Cuarta Edad, originalmente conocida como Minas Anor.",
+      "answer": ["Minas Tirith"]
+    },
+    {
+      "question": "Nombre que reciben las más grandes minas construidas por los Enanos en la Tierra Media, situadas más al sur en las Montañas Nubladas.",
+      "answer": ["Moria"]
+    },
+    {
+      "question": "Elfo noldorin hijo mayor de Fëanor y cabeza de la Casa en la Tierra Media tras la muerte de su padre, conocido como 'el Alto'.",
+      "answer": ["Maedhros"]
+    }
+  ],
+  "N": [
+    {
+      "question": "Isla situada entre Valinor y la Tierra Media creada por los Valar para los Edain a principios de la Segunda Edad como premio por su lucha contra Morgoth.",
+      "answer": ["Númenor", "Numenor"]
+    },
+    {
+      "question": "Ciudad donde viven los elfos Sindar en Beleriand.",
+      "answer": ["Nargothrond"]
+    },
+    {
+      "question": "Clan de los elfos que dirigidos por Finwë emprendieron su viaje a Aman.",
+      "answer": ["Noldor"]
+    },
+    {
+      "question": "Grupo de nueve espectros al servicio del Señor Oscuro, también llamados Espectros del Anillo y Ulairi.",
+      "answer": ["Nazgûl"]
+    },
+    {
+      "question": "Una de las dos ciudades de los Enanos en las Montañas Azules durante la Primera Edad, traducción al Sindarin de la palabra Tumunzahar.",
+      "answer": ["Nogrod"]
+    },
+    {
+      "question": "Dúnedain corrompidos por Sauron y enfrentados con Elendil que se salvaron del hundimiento de Númenor, pero que tomaron asentamientos diferentes como Umbar o Angmar.",
+      "answer": ["Númenóreanos Negros", "Numenoreanos Negros"]
+    },
+    {
+      "question": "Uno de los Tres Anillos de los Elfos forjados por Celebrimbor, también conocido como el Anillo de Agua, entregado a Galadriel y utilizado para proteger Lórien.",
+      "answer": ["Nenya"]
+    },
+    {
+      "question": "Uno de los Tres Anillos de los Elfos forjados por Celebrimbor, también conocido como el Anillo de Fuego, primero entregado a Gil-Galad, luego a Círdan y cedido por último a Gandalf.",
+      "answer": ["Narya"]
+    },
+    {
+      "question": "Espada de Elendil forjada por Telchar de Nogrod con la cual Isildur venció a Sauron y con cuyos fragmentos se forjó Andúril.",
+      "answer": ["Narsil"]
+    },
+    {
+      "question": "Árbol Blanco de Númeno plantado en el Patio del Rey en la ciudad de Armenelos.",
+      "answer": ["Nimloth"]
+    }
+  ],
+  "O": [
+    {
+      "question": "Espada de Thorin forjada en el antiguo reino de Gondolin, también conocida como la 'Hendedora de Trasgos'.",
+      "answer": ["Orcrist"]
+    },
+    {
+      "question": "Gran ciudad fundada por los elfos Noldor en el año 750 de la Segunda Edad, capital del reino de Eregion y hogar de Celebrimbor.",
+      "answer": ["Ost-in-Edhil", "Ost in Edhil"]
+    },
+    {
+      "question": "Ciudad de Gondor atravesada por el Anduin que fue su capital hasta que ésta se trasladó a Minas Tirith.",
+      "answer": ["Osgiliath"]
+    },
+    {
+      "question": "Torre que se encontraba en el centro del Anillo de Isengard.",
+      "answer": ["Orthanc"]
+    },
+    {
+      "question": "Raza de trolls creada por Sauron de gran agilidad, fuerza y astucia, que hablaba Lengua Negra y soportaba la luz del Sol.",
+      "answer": ["Olog-Hai", "Olog Hai"]
+    }
+  ],
+  "P": [
+    {
+      "question": "Puente de piedra en el reino de los enanos de Khazad-dûm.",
+      "answer": ["Puente de Durin"]
+    },
+    {
+      "question": "Una de las tres especies de los Hobbits que se asentaron en el Valle de Anduin entre Ninglor y La Carroca.",
+      "answer": ["Pelosos"]
+    },
+    {
+      "question": "Las Siete Piedras Videntes llevadas por Elendil y sus hijos a la Tierra Media, hechas por Fëanor en Aman que servían como medio de comunicación.",
+      "answer": ["Palantír", "Palantiri"]
+    },
+    {
+      "question": "Nombre completo del hobbit conocido como Pippin, integrante de la Compañía del Anillo y muy amigo de Merry y Frodo.",
+      "answer": ["Peregrin Tuk"]
+    },
+    {
+      "question": "Raza de la Tierra Media, que se aplica principalmente a Elrond y Elros, que se refiere a su sangre mixta entre Edain y Eldarin.",
+      "answer": ["Peredhil"]
+    },
+    {
+      "question": "Entrada natural al reino de Mordor custodiada por poderosas puertas de hierro.",
+      "answer": ["Puerta Negra"]
+    },
+    {
+      "question": "Gema blanca que hizo que Thror creyera que su mandato era divino y contribuyó a su locura por las joyas y piedras preciosas.",
+      "answer": ["Piedra del Arca"]
+    },
+    {
+      "question": "Principal ciudad portuaria de Gondor situada en la región de Lebennin, en la desembocadura del Anduin, al sur de Osgiliath.",
+      "answer": ["Pelargir"]
+    }
+  ],
+  "Q": [
+    {
+      "question": "Idioma desarrollado entre los elfos Noldor Y Vanyar una vez llegaron a Beleriand.",
+      "answer": ["Quenya"]
+    },
+    {
+      "question": "Área de bajas colinas al este de la Comarca y el Bosque Viejo, y al oeste del pueblo de Bree, que sirvieron como lugares de descanso para los hombres del norte, así como para los Dunedain.",
+      "answer": ["Quebrada de los Túmulos", "Quebrada de los Tumulos"]
+    },
+    {
+      "question": "Nombre de los primeros Elfos que despertaron en el mundo junto a la laguna del Cuiviénen, que significa 'Los que hablan'.",
+      "answer": ["Quendi"]
+    }
+  ],
+  "R": [
+    {
+      "question": "Reino fundado por los Hombres del Norte, los Eorlingas, que ocupa las grandes llanuras cubiertas de pastos situadas al norte de las Montañas Blancas y al este de las Montañas Nubladas y cuyos habitantes se caracterizan por ser amantes de los caballos.",
+      "answer": ["Rohan"]
+    },
+    {
+      "question": "Istari que habitaba en Rhosgobel amante de todos los animales y plantas que usaba a los pájaros como espías y mensajeros.",
+      "answer": ["Radagast"]
+    },
+    {
+      "question": "Nombre del mayor puerto de Númenor, situado en la región de Arandor.",
+      "answer": ["Rómenna, Romenna"]
+    },
+    {
+      "question": "Nombre que reciben las vastas y extensas tierras situadas al este de la Tierra Media, de las que poco se conoce al no salir en casi ningún mapa.",
+      "answer": ["Rhûn", "Rhun"]
+    },
+    {
+      "question": "Refugio élfico en un valle escarpado y recóndito fundado por Elrond, llamado Imladris en sindarin.",
+      "answer": ["Rivendel"]
+    },
+    {
+      "question": "Caballeros que viven en las tierras de Rohan, también llamados Eorlingas.",
+      "answer": ["Rohirrim"]
+    },
+    {
+      "question": "Extensa región que se extiende al este de las Montañas Nubladas hasta el Río Rápido limitando al sur con Rohan, Eriador al oeste, Forodwaith al norte y Rhûn al este.",
+      "answer": ["Rhovanion"]
+    },
+    {
+      "question": "Uno de los tres reinos en los que se dividió Arnor situados al sur de las Landas de Etten, al oeste de las Montañas Nubladas y al este de las Colinas del Viento.",
+      "answer": ["Rhudaur"]
+    },
+    {
+      "question": "Esposa del señor Samsagaz Gamyi con quien tuvo 13 hijos",
+      "answer": ["Rosita Coto"]
+    }
+  ],
+  "S": [
+    {
+      "question": "El dragón que custodia el tesoro de los enanos en Erebor.",
+      "answer": ["Smaug"]
+    },
+    {
+      "question": "Idioma más importante, conocido y hablado en la Tierra Media, especialmente en la Tercera Edad.",
+      "answer": ["Sindarin"]
+    },
+    {
+      "question": "Maiar más poderoso corrompido por Melkor, enemigo de los Elfos y Hombres y forjador del Anillo Único.",
+      "answer": ["Sauron"]
+    },
+    {
+      "question": "Líder de la Orden de los Istari que habitaba en Isengard y que acabó atarído por el mal y ambicionando para sí mismo el Anillo Único.",
+      "answer": ["Saruman"]
+    },
+    {
+      "question": "Gemas creadas por Fëanor a partir de la esencia de Laurelin y Telperion.",
+      "answer": ["Silmarils"]
+    },
+    {
+      "question": "Señor de todos los caballos, descendiente de Felaróf, de la raza de los Mearas, más rápido que el viento y que tan solo dejó ser montado por Gandalf el Blanco.",
+      "answer": ["Sombragrís"]
+    },
+    {
+      "question": "Poderoso dragón de las Montañas Nubladas conocido como el Gusano que fue muerto por Fram.",
+      "answer": ["Scatha"]
+    },
+    {
+      "question": "Tenebroso paso de las Montañas Blancas que comunica Rohan con el sur de Gondor, que copmienza a partir de El Sagrario.",
+      "answer": ["Senderos de los Muertos", "Sendero de los Muertos"]
+    },
+    {
+      "question": "Capitán Uruk-Hai encarga de Cirith Ungol que se disputó con Gorbag la cota de mithril de Frdos.",
+      "answer": ["Shagrat"]
+    },
+    {
+      "question": "Hobbit integrante de la Compañía del Anillo, siempre leal a Frodo, al cual acompañó en su viaje a Mordor cuando ésta se disolvió en la cima de Amon Hen.",
+      "answer": ["Samsagaz Ganyi", "Sam"]
+    }
+  ],
+  "T": [
+    {
+      "question": "Elfo sindar, padre de Legolas y rey de los Elfos Silvanos del Bosque Negro.",
+      "answer": ["Thranduil"]
+    },
+    {
+      "question": "Misterioso ser que habita en el Bosque Viejo, al este de la Comarca, que se dedica a calmar a los espíritus y criaturas del bosque.",
+      "answer": ["Tom Bombadil"]
+    },
+    {
+      "question": "Tercer y último grupo de Eldar encontrados por Enel y Enelyë, que enviaron a Elwë en representación a Valinor.",
+      "answer": ["Teleri"]
+    },
+    {
+      "question": "Hijo de Huor y padre de Eärendil que fue a Gondolin a advertir a Turgon de que la caída dde la ciudad estaba cerca.",
+      "answer": ["Tuor"]
+    },
+    {
+      "question": "Elfo Noldor, segundo hijo de Fingolfin, que vivió en Vinyamar en Nevrast antes de partir en secreto a Gondolin, donde gobernó hasta su muerte en el saqueo de la ciudad.",
+      "answer": ["Turgon"]
+    },
+    {
+      "question": "Númenóreana de la Segunda Edad, hija única de Tar-Palantir, a quien debía suceder en el trono que fue desposada por su primo Ar-Pharazôn.",
+      "answer": ["Tar-Míriel", "Tar-Miriel", "Tar Míriel", "Tar Miriel"]
+    },
+    {
+      "question": "Guerrero poderoso y hombre noble, hijo de Húrin y Morwen, que se perdió debido al sufrimiento de su vida y la maldición de Morgoth.",
+      "answer": ["Túrin Turambar", "Turin Turambar"]
+    },
+    {
+      "question": "Gran isla en Valinor poblada por los Teleri de Aman, los Falmar, y más tarde por las comunidades Sindar y Noldor de la Tierra Media.",
+      "answer": ["Tol Eressëa", "Tol Eressea"]
+    },
+    {
+      "question": "Uno de los primeros elfos en nacer junto al Cuiviénen elegido como gran rey de todos los elfos Teleri.",
+      "answer": ["Thingol"]
+    },
+    {
+      "question": "Rey de los enanos bajo la montaña, hijo de Dáin I, que fue degollado tras entrar solo en las minas de Moria por Azog el Profanador.",
+      "answer": ["Thrór", "Thror"]
+    },
+    {
+      "question": "Demonios hechos de una sustancia de oscuridad que podían penetrar en el ojo, el corazón y la mente o anular la voluntad, capaces de cambiar de forma y animar cualquier ser que desearan y que habitaban en las Quebradas de los Túmulos.",
+      "answer": ["Tumularios"]
+    },
+    {
+      "question": "Rey de las Águilas de la Tierra Media durante la Primera Edad, probablemente el más grande de tamaño con una envergadura de 180 pies, enviado por Manwë y que participó en la Guerra de la Cólera habiendo luchado contra Ancalagon el Negro.",
+      "answer": ["Thorondor"]
+    },
+    {
+      "question": "Valar amante de la lucha, que no conoce la fatiga, de piel rojiza y cabellos dorados y temido por Melkor más que a cualquier otro Valar.",
+      "answer": ["Tulkas"]
+    },
+    {
+      "question": "Rohirrim hijo único de Théoden, Segundo Mariscal de la Marca, con mando en el Abismo de Helm y que murió en la Primera Batalla de los Vados del Isen.",
+      "answer": ["Théodred"]
+    },
+    {
+      "question": "Rey de Rohan y Mariscal de la Marca que derrotó a las hordas de Saruman en la Batalla del Abismo de Helm y lideró a los Rohirrim en ayuda de Gondor en la Batalla de los Campos del Pelennor, donde murió aplastado por su caballo al ser asustado por la bestia alada del Rey Brujo.",
+      "answer": ["Théoden"]
+    },
+    {
+      "question": "Montaña más alta de todo Arda, situada en el centro de las Pelori, en cuya cima residían los reyes de los Valar, Manwë y Varda.",
+      "answer": ["Taniquetil"]
+    },
+    {
+      "question": "Enano Rey bajo la Montaña, del linaje de Durin, hijo de Thráin II, de carácter arrgante y que lideró a su compañía en la misión para recuperar el tesoro de Smaug en Erebor.",
+      "answer": ["Thorin Escudo de Roble", "Thorin II"]
+    },
+    {
+      "question": "Rey de Númenor que cambió con la actitud de enemistad contra los Valar de los reyes anteriores y restauró muchas costumbres olvidadas.",
+      "answer": ["Tar-Palantir", "Tar Palantir"]
+    }
+  ],
+  "U": [
+    {
+      "question": "Raza superior de orcos de gran fuerza y tamaño y de mayor inteligencia que los orcos , creada por Sauron en la Tercera Edad.",
+      "answer": ["Uruk-hai", "Uruk hai"]
+    },
+    {
+      "question": "Capitán de los Uruk-hai que atacaron a la Compañía del Anillo en Amon Hen.",
+      "answer": ["Uglúk", "Ugluk"]
+    },
+    {
+      "question": "Gran araña que con Melkor destruyó los Árboles de Valinor, también conocida como la Tejedora de Tinieblas, madre de toda la prole de las grandes arañas que poblaron los rincones más oscuros de la Tierra Media.",
+      "answer": ["Ungoliant"]
+    },
+    {
+      "question": "Valar y uno de los Aratar, cuyo título era Señor de las Aguas, segundo en poder después de Manwë.",
+      "answer": ["Ulmo"]
+    },
+    {
+      "question": "Criaturas grandes y salvajes con apariencia de arboles que podían moverse y hablar, más conscientes que los árboles, pero no completamente sintientes como los Ents.",
+      "answer": ["Ucornos"]
+    },
+    {
+      "question": "Primera y mayor fortaleza que construyó Melkor en la zona más septentrional de la Tierra Media muy cerca del gran océano Ekkaia, situada en el extremo oriental de las Montañas de Hierro, durante las Edades de las Lámparas.",
+      "answer": ["Utumno"]
+    },
+    {
+      "question": "Ciudad portuaria situada en la costa oeste del Cercano Harad fundada por los númenóreanos durante la Segunda Edad como puerto militar y comercial.",
+      "answer": ["Umbar"]
+    }
+  ],
+  "V": [
+    {
+      "question": "Reino de los Valar en Aman, también conocido como las Tierras Imperecederas.",
+      "answer": ["Valinor"]
+    },
+    {
+      "question": "Uno de los Tres Anillos de los Elfos forjados por Celebrimbor, también conocido como el Anillo del aire, entregado a Gil-Galad y cedidó en el 1701 a Elrond, quien lo utilizó para tomar Rivendel.",
+      "answer": ["Vilya"]
+    },
+    {
+      "question": "Primer clan de los elfos, descendientes de Imil, primer elfo en despertar, y de Iminyë, primera elfa, y cuyo integrante Ingwë fue el primero de su clan en ir a Valinor, convirtiéndose en rey de su clan.",
+      "answer": ["Vanyar"]
+    },
+    {
+      "question": "Aquellos catorce Ainur de mayor jerarquía que decidieron entrar en Eä para completar la visión de Ilúvatar.",
+      "answer": ["Valar"]
+    },
+    {
+      "question": "La más grande de las Valier y una de los Aratar, esposa de Manwë y cuyo poder reside en la luz.",
+      "answer": ["Varda"]
+    },
+    {
+      "question": "Nombre de las regiones deshabitadas de existencia fuera de Eä y de los Palacios Intemporales a las cuales Morgoth fue expuslado tras su derrota en la Guerra de la Cólera.",
+      "answer": ["Vacío Intemporal", "Vacío", "Vacio Intemporal", "Vacio"]
+    },
+    {
+      "question": "Una de las Valier, hermana de Yavanna y esposa de Oromë.",
+      "answer": ["Vána"]
+    },
+    {
+      "question": "Hijo menor de Isildur y tercer rey de Arnor que heredó el trono tras la muerte de Isildur y sus hermanos en los Campos Gladios.",
+      "answer": ["Valandil"]
+    },
+    {
+      "question": "Gran sauce del Bosque Viejo, y posiblemente un Ucorno, que capturó a Merry y Pippin, capaz de dirigir todos los caminos del bosque hacia él.",
+      "answer": ["Viejo Hombre-Sauce", "Viejo Hombre Sauce"]
+    }
+  ],
+  "W": [
+    {
+      "question": "Hijo de Freca que se enemistó con Helm Mano de Hierro tras la muerte de su padre, atacó el Folde Oeste, se autoproclamó Rey de Rohan y acabó derrocado por Fréalaf Hildeson.",
+      "answer": ["Wulf"]
+    },
+    {
+      "question": "Apellido del actor estadounidense que interpreta a Frodo Bolsón en la trilogía de El Señor de los Anillos.",
+      "answer": ["Wood"]
+    },
+    {
+      "question": "Contiene la W. Cadena de montañas en el norte de la Tierra Media en la Primera Edad, también conocida como Montañas de la Sombra.",
+      "answer": ["Ered Wethrin"]
+    },
+    {
+      "question": "Criaturas semejantes a los lobos, pero con mucha más fuerza y mayor tamaño, usados como montura por los orcos y otras criaturas malignas.",
+      "answer": ["Wargos"]
+    }
+  ],
+  "Y": [
+    {
+      "question": "Valier y una de los Aratar, esposa de Aulë y hermana de Vána.",
+      "answer": ["Yavanna"]
+    },
+    {
+      "question": "Contiene la Y. Apellido del leal Hobbit que acompañó a Frodo hasta Mordor después de la disolución de la Compañía del Anillo en la cima de Amon Hen.",
+      "answer": ["Ganyi"]
+    },
+    {
+      "question": "Personaje de la trilogía cinematográfica de El Hobbit capitán orco y caballero wargo, mano derecha y segundo al mando de Azog.",
+      "answer": ["Yazneg"]
+    },
+    {
+      "question": "Contiene la Y. Idioma desarrollado entre los elfos Noldor Y Vanyar una vez llegaron a Beleriand.",
+      "answer": ["Quenya"]
+    },
+    {
+      "question": "Contiene la Y. Hija de Éomund, hermana de Éomer y sobrina del Rey Théoden que participó en la Batalla de los Campos del Pelennor, donde derrotó al Rey Brujo de Angmar.",
+      "answer": ["Éowyn", "Eowyn"]
+    }
+  ],
+  "Z": [
+    {
+      "question": "Una de las montañas más altas de las Montañas Nubladas al sur del Caradhras, en cuya cima se encontraba la Torre de Durin a la que se llegaba tras subir la Escalera Interminable y donde Gandalf y el Balrog de Moria murieron tras una incesante pelea.",
+      "answer": ["Zirak-zigil", "Zirak Zigil"]
+    },
+    {
+      "question": "Contiene la Z. Profundo valle que se abre en las Montañas Nubladas, a la sombra de los Picos de Moria donde tuvo lugar la Batalla de Nanduhirion.",
+      "answer": ["Azanulbizar"]
+    },
+    {
+      "question": "Contiene la Z. Líder orco que decapitó al rey Thrór y gobernó Moria tras la expulsión de los enanos, también conocido con el sobrenombre de 'El Profanador'.",
+      "answer": ["Azog"]
+    },
+    {
+      "question": "Contiene la Z. Nombre con el que pasó a llamarse Tar-Míriel cuando asumió el poder ocmo reina de Númenor.",
+      "answer": ["Ar-Zimraphel"]
+    },
+    {
+      "question": "Contiene la Z. Nombre en Valarin de Tulkas.",
+      "answer": ["Tulukhastaz"]
+    }
+  ]
+}

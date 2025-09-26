@@ -1,0 +1,248 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Middle Earth";
+  src: url("/fonts/Middle-Earth.woff2");
+}
+
+body {
+  font-family: "Middle Earth", sans-serif;
+  color: #d09a2e;
+}
+
+.option-button {
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.option-button:hover {
+  transform: translateY(-2px);
+  background-color: #374151;
+}
+
+.option-button.correct {
+  background-color: #10b981;
+}
+
+.option-button.incorrect {
+  background-color: #ef4444;
+}
+
+.background-slider {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.background-slider .slide {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+}
+
+.background-slider .slide:nth-child(1) {
+  animation-delay: 0s;
+}
+.background-slider .slide:nth-child(2) {
+  animation-delay: 10s;
+}
+.background-slider .slide:nth-child(3) {
+  animation-delay: 20s;
+}
+.background-slider .slide:nth-child(4) {
+  animation-delay: 30s;
+}
+
+/* Animación de rotación */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.landing-container {
+  font-family: "Middle Earth", sans-serif;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #10b981;
+  position: relative;
+  overflow: hidden;
+}
+
+.background-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+}
+
+.content {
+  position: relative;
+  z-index: 2;
+  padding: 20px;
+  max-width: 800px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  color: #cc9933; /* Dorado */
+}
+
+/* === ANILLO NUEVO (donut) === */
+.ring-wrapper {
+  position: relative;
+  width: 600px;
+  height: 600px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Franja circular */
+.ring-band {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-color: #cc9933;
+  box-shadow: inset 0 0 25px rgba(0, 0, 0, 0.6);
+  z-index: 0;
+}
+
+.ring-band {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-color: #cc9933;
+  box-shadow: inset 0 0 25px rgba(0, 0, 0, 0.6);
+  z-index: 0;
+}
+
+/* Recorte del centro → define el grosor del anillo */
+.ring-band::before {
+  content: "";
+  position: absolute;
+  top: 80px; /* margen = grosor del anillo */
+  left: 80px;
+  right: 80px;
+  bottom: 80px;
+  border-radius: 50%;
+  background-color: #053726;
+}
+
+.ring-text {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 1.3rem;
+  letter-spacing: 0.18rem;
+  animation: spin 40s linear infinite;
+  pointer-events: none;
+}
+
+.ring-text span {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  height: 50%;
+  transform-origin: 0 100%;
+  /* Ajuste fino: empuja el texto hacia adentro de la franja */
+  transform: rotate(var(--char-rotation)) translateY(25px);
+  color: #fdf242;
+}
+
+/* Botón CTA */
+.cta-button {
+  background-color: #d4a737;
+  color: #fdf242;
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  transition: background-color 0.3s ease;
+  position: relative;
+  z-index: 3;
+}
+
+.cta-button:hover {
+  background-color: #e4c25d;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .main-title {
+    font-size: 2.5rem;
+  }
+  .ring-wrapper {
+    width: 380px;
+    height: 380px;
+  }
+  .ring-band::before {
+    top: 80px;
+    left: 80px;
+    right: 80px;
+    bottom: 80px;
+  }
+  .ring-text {
+    width: calc(100% - 160px);
+    height: calc(100% - 160px);
+    font-size: 0.9rem;
+    letter-spacing: 0.12rem;
+  }
+  .ring-text span {
+    transform: rotate(var(--char-rotation)) translateY(-40px);
+  }
+  .cta-button {
+    padding: 12px 25px;
+    font-size: 1rem;
+  }
+}
+
+/* Fondo con zoom */
+@keyframes zoomLoop {
+  0% {
+    transform: scale(1);
+  }
+  80% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.bg-zoom {
+  animation: zoomLoop 10s ease-in-out forwards;
+}
+
+.transition-opacity-slow {
+  transition: opacity 2s ease-in-out;
+}
