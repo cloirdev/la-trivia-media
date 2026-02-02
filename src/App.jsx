@@ -27,11 +27,13 @@ const App = () => {
   // Nuevo estado para controlar la visualización de la landing page
   const [showLanding, setShowLanding] = useState(true);
 
+  // Usar import.meta.env.BASE_URL para compatibilidad con GitHub Pages
+  const BASE_URL = import.meta.env.BASE_URL || '/';
   const backgroundImages = [
-    "/images/bg1.jpg",
-    "/images/bg2.jpg",
-    "/images/bg3.jpg",
-    "/images/bg4.jpg",
+    `${BASE_URL}images/bg1.jpg`,
+    `${BASE_URL}images/bg2.jpg`,
+    `${BASE_URL}images/bg3.jpg`,
+    `${BASE_URL}images/bg4.jpg`,
   ];
 
   const [currentBg, setCurrentBg] = useState(0);

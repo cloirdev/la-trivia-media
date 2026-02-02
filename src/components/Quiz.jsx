@@ -13,6 +13,7 @@ const Quiz = ({ shuffledQuizData, onEndQuiz }) => {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [answered, setAnswered] = useState(false);
+  const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [timeLeft, setTimeLeft] = useState(30);
   const [delayTime, setDelayTime] = useState(0);
   const [shuffledOptions, setShuffledOptions] = useState([]);
@@ -57,6 +58,7 @@ const Quiz = ({ shuffledQuizData, onEndQuiz }) => {
     if (answered) return;
 
     setAnswered(true);
+    setSelectedAnswer(selectedOption);
     const currentQuestion = shuffledQuizData[currentQuestionIndex];
 
     if (selectedOption === currentQuestion.correctAnswer) {
@@ -76,6 +78,7 @@ const Quiz = ({ shuffledQuizData, onEndQuiz }) => {
       setCurrentQuestionIndex(nextIndex);
       setTimeLeft(30);
       setAnswered(false);
+      setSelectedAnswer(null);
     } else {
       onEndQuiz(score);
     }
@@ -104,27 +107,39 @@ const Quiz = ({ shuffledQuizData, onEndQuiz }) => {
       </h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full">
-        {shuffledOptions.map((option, index) => (
-          <button
-            key={index}
-            onClick={() => checkAnswer(option)}
-            className={`option-button bg-gray-800 text-white py-3 px-4 rounded-lg font-medium
-              ${
-                answered && option === currentQuestion.correctAnswer
-                  ? "correct"
-                  : ""
-              }
-              ${
-                answered && option !== currentQuestion.correctAnswer
-                  ? "incorrect"
-                  : ""
-              }
-              ${answered ? "cursor-not-allowed" : "hover:bg-gray-700"}`}
-            disabled={answered}
-          >
-            {option}
-          </button>
-        ))}
+        {shuffledOptions.map((option, index) => {
+          // Determinar el estado visual del botón
+          let buttonClass = "option-button bg-gray-800 text-white py-3 px-4 rounded-lg font-medium";
+          
+          if (answered) {
+            // Mostrar en verde la respuesta correcta
+            if (option === currentQuestion.correctAnswer) {
+              buttonClass += " correct";
+            }
+            // Mostrar en rojo SOLO la respuesta que seleccionó el usuario (si fue incorrecta)
+            else if (option === selectedAnswer) {
+              buttonClass += " incorrect";
+            }
+            // Las demás opciones quedan normales pero deshabilitadas
+            else {
+              buttonClass += " opacity-60";
+            }
+            buttonClass += " cursor-not-allowed";
+          } else {
+            buttonClass += " hover:bg-gray-700";
+          }
+
+          return (
+            <button
+              key={index}
+              onClick={() => checkAnswer(option)}
+              className={buttonClass}
+              disabled={answered}
+            >
+              {option}
+            </button>
+          );
+        })}
       </div>
 
       {answered && delayTime > 0 && (
